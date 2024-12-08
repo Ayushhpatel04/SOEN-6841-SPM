@@ -17,8 +17,8 @@ The project is divided into phases, which range from project initiation and plan
 
 | **Team Member**    | **Assigned Tasks** |
 | -------- | ------- |
-| Mihir Gediya  | Competitor Analysis (Diliverable 1) <br> Business Values (Diliverable 1) <br>  Feasibility Study (Diliverable 2) |
-| Ankush Desai |  Market Analysis (Diliverable 1) <br> Target Audience Identification (Diliverable 1) <br> Budgeting  (Diliverable 2) |
+| Mihir Gediya  | Competitor Analysis (Deliverable 1) <br> Business Values (Deliverable 1) <br>  Feasibility Study (Deliverable 2) |
+| Ankush Desai |  Market Analysis (Deliverable 1) <br> Target Audience Identification (Deliverable 1) <br> Budgeting  (Deliverable 2) |
 | Harsh Tank    | ----------- <br>------------- <br> ---------------   |
 | Ayush Patel    | ---------- <br> -------------- <br>------------   |
 | Zeel Divawala    | -------------- <br>----------- <br>----------   |
