@@ -19,7 +19,7 @@ The project is divided into phases, which range from project initiation and plan
 | -------- | ------- |
 | Mihir Gediya  | Competitor Analysis <br> Business Values <br>  Feasibility Study |
 | Ankush Desai |  Market Analysis <br> Target Audience Identification <br> Budgeting |
-| Harsh Tank    | ----------- <br>------------- <br> ---------------   |
+| Harsh Tank    | Problem Identification <br> Solution Proposal <br> Key Features & Functionalities with Use Cases |
 | Ayush Patel    | ---------- <br> -------------- <br>------------   |
 | Zeel Divawala    | -------------- <br>----------- <br>----------   |
 
