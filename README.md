@@ -1,7 +1,7 @@
 # Emergency Response Coordination System
 
 ## Overview
-The Emergency Response Coordination System (ERCS) is a project that aims to increase the efficiency and efficacy of disaster management by improving communication and coordination across multiple responding organisations. The system's goal is to integrate real-time data from a variety of sources, including government agencies, first responders, hospitals, and non-governmental organisations (NGOs), to create a centralised platform for managing and directing resources during emergencies. The ERCS streamlines the flow of information, ensuring that choices are made swiftly and effectively, minimising response time and potentially saving lives in critical situations. The project aims to improve readiness, coordination, and response to natural disasters, medical emergencies, and other catastrophes.
+The Emergency Response Coordination System (ERCS) aims to increase disaster management's efficiency and efficacy by improving communication and coordination across multiple responding organizations. The system's goal is to integrate real-time data from a variety of sources, including government agencies, first responders, hospitals, and non-governmental organisations (NGOs), to create a centralized platform for managing and directing resources during emergencies. The ERCS streamlines the flow of information, ensuring that choices are made swiftly and effectively, minimizing response time and potentially saving lives in critical situations. The project aims to improve readiness, coordination, and response to natural disasters, medical emergencies, and other catastrophes.
 
 The project is divided into phases, which range from project initiation and planning to design, development, deployment, and maintenance. Each phase includes explicit deliverables, milestones, and resource allocations to ensure the project is completed on time and efficiently.
 
@@ -20,6 +20,6 @@ The project is divided into phases, which range from project initiation and plan
 | Mihir Gediya  | Competitor Analysis <br> Business Values <br>  Feasibility Study |
 | Ankush Desai |  Market Analysis <br> Target Audience Identification <br> Budgeting |
 | Harsh Tank    | Problem Identification <br> Solution Proposal <br> Key Features & Functionalities with Use Cases |
-| Ayush Patel    | ---------- <br> -------------- <br>------------   |
+| Ayush Patel    | Risk Assessment <br> Mitigation Strategies <br> Coordination and Report Preparation |
 | Zeel Divawala    | -------------- <br>----------- <br>----------   |
 
